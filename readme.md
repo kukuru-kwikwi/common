@@ -8,6 +8,8 @@ Welcome to the common project starting point! Follow this checklist to get up an
 
 - [ ] Review the [folder structure](/.github/copilot-instructions.md#folder-structure) and familiarize yourself with `/docs/`, `/refs/`, and `/specs/`.
 - [ ] Read the `README.md` files in each major folder for context.
+- [ ] Review the [tooling](/specs/technical-specs/tooling.md) for recommended tools and extensions.
+- [ ] Install and configure required tools before starting work.
 
 ## 2. Project Kickoff
 
@@ -35,23 +37,11 @@ Steps for setting up the development environment and start prototyping
 - [ ] Review the technical stack in `/specs/technical-specs/` (frontend, backend, API).
 - [ ] Follow the tech stack and standards in `/specs/technical-specs/`.
 
-## 5. Handoff to Development
-
-- Ensure all specs, user stories, and data models are complete and reviewed.
-- Use the checklist in this document to verify readiness.
-- Communicate any open questions or risks.
-
-## 6. Updating Instructions & Templates
+## 6. Changes instructions
 
 - Propose changes via pull request or tracked document.
 - Request peer review for any updates to instructions or templates.
 - Summarize major changes in `CHANGELOG.md` (create if missing).
-- Reference or update `/docs/lexicon.md` as needed.
-
-## 7. Tooling
-
-- Review `/specs/technical-specs/tooling.md` (create if missing) for recommended tools and extensions.
-- Install and configure required tools before starting work.
 
 ## 8. Questions & Support
 
