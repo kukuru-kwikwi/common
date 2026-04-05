@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.encoding": "utf8",
+  "files.eol": "\n",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.renderWhitespace": "boundary",
+  "editor.rulers": [75],
+  "editor.wordWrapColumn": 75,
+  "editor.wordWrap": "off",
+  "prettier.configPath": ".vscode/.prettierrc.json",
+  "editor.wordBasedSuggestions": "off",
+  "deno.enable": true,
+  "deno.lint": true,
+  "deno.disablePaths": [".vscode", "docs"]
+}

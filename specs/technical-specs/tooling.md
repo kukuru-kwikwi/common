@@ -4,7 +4,19 @@
 
 - List of required and recommended tools (IDEs, extensions, linters, formatters, etc.)
 - Installation instructions or links
-- List of VS Code or other IDE extensions that improve productivity or enforce standards
+
+### VSCode extensions
+
+- https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat
+- https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno
+- https://marketplace.visualstudio.com/items?itemName=VisbyDev.folder-path-color
+- https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
+- https://marketplace.visualstudio.com/items?itemName=letmaik.git-tree-compare
+
+#### Markdown
+
+- https://marketplace.visualstudio.com/items?itemName=bierner.markdown-checkbox
+- https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid
 
 ## Automation
 
